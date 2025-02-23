@@ -5,7 +5,7 @@ import io from "socket.io-client";
 import "./App.css";
 
 //const socket = io.connect('http://localhost:5000');
-const socket = io.connect('https://29fe-105-113-27-162.ngrok-free.app');
+const socket = io.connect('https://2237-105-113-27-162.ngrok-free.app');
 
 
 function App() {
